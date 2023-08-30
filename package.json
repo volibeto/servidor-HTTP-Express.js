@@ -1,5 +1,5 @@
 {
-  "name": "exercicio-resolvido",
+  "name": "",
   "version": "1.0.0",
   "description": "Exercício Resolvido\r Crie um Servidor HTTP utilizando o Express.js que ao ser acessado através da URL 'http://localhost:3000/usuarios' retorne a listagem de usuários abaixo.",
   "main": "index.js",
